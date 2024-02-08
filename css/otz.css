@@ -1,0 +1,39 @@
+.bod{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    flex-direction: column;
+    padding: 400px;
+   
+}
+.frm{
+font-size: 40px;
+
+
+}
+.cl{
+    border-radius: 10px;
+    
+}
+.dt{
+
+    font-size: 25px;
+}
+.area{
+
+    width: 400px;
+    height: 300px;
+    padding: 10px;
+    font-size: 18px;
+    margin-top: 10px;
+}
+.area input[type="text"]{
+    margin-top: 20px;
+}
+body {
+    height: 1500px;
+        width: 100%;
+    background: linear-gradient(to bottom, #ffffff, #87ceeb)no-repeat;
+    
+   
+   }

@@ -1,0 +1,41 @@
+
+.au{
+
+
+    padding: 10px;
+    box-shadow: 5px;
+
+
+}
+.auth{
+    display: flex;
+    flex-direction: column;
+     justify-content: center;
+     align-items: center;
+     border: 1px solid rgb(168, 55, 55);
+     border-radius: 10px;
+     max-width: 350px;
+     padding: 20px;
+     margin: 20px;
+
+}
+
+.bod{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 200px;
+    background-image: image('food.jpq');
+
+  } 
+  body {
+    height: 1200px;
+        width: 100%;
+    background: linear-gradient(to bottom, #ffffff, #87ceeb)no-repeat;
+    
+   
+   }
+   .sub:hover{
+    color: brown;
+}

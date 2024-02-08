@@ -1,0 +1,58 @@
+.head{
+    display: flex;
+    background-color: rgb(0, 212, 240);
+    flex-direction: row;
+    justify-content:space-around;
+    height: 100px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 70px; 
+    font-size: 50px;     
+    color: bisque; 
+}
+.ex{
+    border-radius: 15px;
+    background-color: darkslateblue;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    }
+.ex:hover{
+    color: brown;
+}
+.ind:hover{
+    color: brown;
+}
+.re:hover{
+    color: brown;
+}
+.user:hover{
+    color: brown;
+}
+.ind{
+    border-radius: 15px;
+    background-color: darkslateblue;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    width: 100px;
+    height: 60px;
+
+    
+}
+.re{
+    border-radius: 15px;
+    background-color: darkslateblue;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    width: auto;
+    height: 60px;
+
+}
+.user{
+    border-radius: 15px;
+    background-color: darkslateblue;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    width: auto;
+    height: 60px;
+
+}

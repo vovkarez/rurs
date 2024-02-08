@@ -1,0 +1,35 @@
+.act{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+   padding: 100px;
+
+   
+}
+.ree{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid black;
+    border-radius: 10px;
+    max-width: 350px;
+    padding: 20px;
+    margin: 20px;}
+.for{
+    padding: 10px;
+    box-shadow: 5px;
+
+}
+
+  body {
+    height: 1200px;
+        width: 100%;
+    background: linear-gradient(to bottom, #ffffff, #87ceeb)no-repeat;
+    
+   
+   }
+   .sub:hover{
+    color: brown;
+}
